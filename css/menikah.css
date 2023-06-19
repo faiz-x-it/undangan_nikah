@@ -37,9 +37,9 @@ html {
 }
 
 .hero {
-  background-image: url(/img/wayang.avif);
+  background-image: url(/img/img.jpeg);
   background: linear-gradient(rgba(138, 83, 0, 0.815), rgba(138, 83, 0, 0.815)),
-    rgba(0, 0, 0, 0.55) url("/img/wayang.avif") no-repeat;
+    rgba(0, 0, 0, 0.55) url("/img/img.jpeg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
